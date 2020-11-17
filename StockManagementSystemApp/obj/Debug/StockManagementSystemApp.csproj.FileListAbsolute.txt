@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\hp\Desktop\bitm\Stockproject\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+D:\BITM\coding\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
